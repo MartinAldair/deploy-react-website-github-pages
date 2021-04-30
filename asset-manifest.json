@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/deploy-react-website-github-pages/static/css/main.f157c586.chunk.css",
-    "main.js": "/deploy-react-website-github-pages/static/js/main.4d507cde.chunk.js",
-    "main.js.map": "/deploy-react-website-github-pages/static/js/main.4d507cde.chunk.js.map",
+    "main.js": "/deploy-react-website-github-pages/static/js/main.8822612c.chunk.js",
+    "main.js.map": "/deploy-react-website-github-pages/static/js/main.8822612c.chunk.js.map",
     "runtime-main.js": "/deploy-react-website-github-pages/static/js/runtime-main.c7bb0088.js",
     "runtime-main.js.map": "/deploy-react-website-github-pages/static/js/runtime-main.c7bb0088.js.map",
     "static/css/2.177a218c.chunk.css": "/deploy-react-website-github-pages/static/css/2.177a218c.chunk.css",
-    "static/js/2.23e75c09.chunk.js": "/deploy-react-website-github-pages/static/js/2.23e75c09.chunk.js",
-    "static/js/2.23e75c09.chunk.js.map": "/deploy-react-website-github-pages/static/js/2.23e75c09.chunk.js.map",
+    "static/js/2.c0f741af.chunk.js": "/deploy-react-website-github-pages/static/js/2.c0f741af.chunk.js",
+    "static/js/2.c0f741af.chunk.js.map": "/deploy-react-website-github-pages/static/js/2.c0f741af.chunk.js.map",
     "index.html": "/deploy-react-website-github-pages/index.html",
     "static/css/2.177a218c.chunk.css.map": "/deploy-react-website-github-pages/static/css/2.177a218c.chunk.css.map",
     "static/css/main.f157c586.chunk.css.map": "/deploy-react-website-github-pages/static/css/main.f157c586.chunk.css.map",
-    "static/js/2.23e75c09.chunk.js.LICENSE.txt": "/deploy-react-website-github-pages/static/js/2.23e75c09.chunk.js.LICENSE.txt",
+    "static/js/2.c0f741af.chunk.js.LICENSE.txt": "/deploy-react-website-github-pages/static/js/2.c0f741af.chunk.js.LICENSE.txt",
     "static/media/layout-darkgrey.css": "/deploy-react-website-github-pages/static/media/react-intro-bg-dark.6f4357e8.jpg",
     "static/media/primereact.min.css": "/deploy-react-website-github-pages/static/media/color.6441e63a.png",
     "static/media/font-awesome.css": "/deploy-react-website-github-pages/static/media/fontawesome-webfont.f691f37e.woff",
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.c7bb0088.js",
     "static/css/2.177a218c.chunk.css",
-    "static/js/2.23e75c09.chunk.js",
+    "static/js/2.c0f741af.chunk.js",
     "static/css/main.f157c586.chunk.css",
-    "static/js/main.4d507cde.chunk.js"
+    "static/js/main.8822612c.chunk.js"
   ]
 }
